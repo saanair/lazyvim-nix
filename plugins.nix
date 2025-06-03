@@ -15,7 +15,7 @@ let
   plugins = with pkgs.vimPlugins; [
     LazyVim
     better-escape-nvim
-    bufferline-nvim
+    //bufferline-nvim
     clangd_extensions-nvim
     cmp-buffer
     cmp-nvim-lsp
@@ -23,7 +23,7 @@ let
     cmp_luasnip
     conform-nvim
     crates-nvim
-    dashboard-nvim
+    //dashboard-nvim
     dracula-nvim
     dressing-nvim
     flash-nvim
