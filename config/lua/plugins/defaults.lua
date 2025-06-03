@@ -1,11 +1,11 @@
 return {
   {
     "akinsho/bufferline.nvim",
-    enabled = false,
+    enabled = true,
   },
   {
     "nvimdev/dashboard-nvim",
-    enabled = false,
+    enabled = true,
   },
   {
     "rcarriga/nvim-notify",
@@ -27,10 +27,10 @@ return {
     opts = {
       modes = {
         char = {
-          enabled = false,
+          enabled = true,
         },
         search = {
-          enabled = false,
+          enabled = true,
         },
       },
     },
