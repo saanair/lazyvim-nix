@@ -78,7 +78,7 @@ let
     { name = "catppuccin"; path = catppuccin-nvim; }
     { name = "cmake-gtest.nvim"; path = cmake-gtest-nvim; }
     { name = "cmake-tools.nvim"; path = cmake-tools-nvim; }
-    //{ name = "huez.nvim"; path = huez-nvim; }
+    { name = "huez.nvim"; path = huez-nvim; }
     { name = "mini.ai"; path = mini-nvim; }
     { name = "mini.bufremove"; path = mini-nvim; }
     { name = "mini.comment"; path = mini-nvim; }
