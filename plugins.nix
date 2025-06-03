@@ -15,7 +15,7 @@ let
   plugins = with pkgs.vimPlugins; [
     LazyVim
     better-escape-nvim
-    //bufferline-nvim
+    bufferline-nvim
     clangd_extensions-nvim
     cmp-buffer
     cmp-nvim-lsp
@@ -23,7 +23,7 @@ let
     cmp_luasnip
     conform-nvim
     crates-nvim
-    //dashboard-nvim
+    dashboard-nvim
     dracula-nvim
     dressing-nvim
     flash-nvim
@@ -78,7 +78,7 @@ let
     { name = "catppuccin"; path = catppuccin-nvim; }
     { name = "cmake-gtest.nvim"; path = cmake-gtest-nvim; }
     { name = "cmake-tools.nvim"; path = cmake-tools-nvim; }
-    { name = "huez.nvim"; path = huez-nvim; }
+    //{ name = "huez.nvim"; path = huez-nvim; }
     { name = "mini.ai"; path = mini-nvim; }
     { name = "mini.bufremove"; path = mini-nvim; }
     { name = "mini.comment"; path = mini-nvim; }
