@@ -1,10 +1,10 @@
 return {
   {
-    "bufferline.nvim",
+    "akinsho/bufferline.nvim",
     enabled = true,
   },
   {
-    "dashboard-nvim",
+    "nvimdev/dashboard-nvim",
     enabled = true,
   },
   {
@@ -23,7 +23,7 @@ return {
   --   }
   -- },
   {
-    "flash.nvim",
+    "folke/flash.nvim",
     opts = {
       modes = {
         char = {
